@@ -5,7 +5,7 @@
     "ownerOnly": false,
     "description": "The Sysdig Agent ID",
     "cliName": "sysdigagentid",
-    "type": "number",
+    "type": "shortText",
     "closeForm": false,
     "editForm": true,
     "required": false,
@@ -24,5 +24,5 @@
     "unmapped": false,
     "unsearchable": true,
     "caseInsensitive": true,
-    "fromVersion": "6.0.0"
+    "fromVersion": "6.10.0"
 }

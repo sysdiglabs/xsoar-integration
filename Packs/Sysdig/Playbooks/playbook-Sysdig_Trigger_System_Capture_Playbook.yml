@@ -1,8 +1,7 @@
 id: Sysdig Trigger System Capture
 version: -1
 name: Sysdig Trigger System Capture
-description: Example playbook on how to manage different response actions based on
-  incident fields.
+description: Example playbook on how to manage different response actions based on incident fields.
 tags:
 - Runtime
 - Sysdig
@@ -97,8 +96,7 @@ tasks:
       id: c801bdb3-ada0-4277-8558-51883aac8111
       version: -1
       name: Create system capture
-      description: Command to trigger a system capture, it will record all system
-        calls at the host level.
+      description: Command to trigger a system capture, it will record all system calls at the host level.
       script: SysdigResponseActions|||create-system-capture
       type: regular
       iscommand: true

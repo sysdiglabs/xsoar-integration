@@ -25,5 +25,5 @@
     "unmapped": false,
     "unsearchable": true,
     "caseInsensitive": true,
-    "fromVersion": "6.0.0"
+    "fromVersion": "6.10.0"
 }
